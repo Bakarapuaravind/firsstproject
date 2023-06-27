@@ -1,0 +1,360 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg {
+    text-align: center;
+    padding: 15px;
+}
+
+.developer-img {
+    width: 80vw;
+}
+
+.main-heading {
+    font-family: "bree serif";
+    color: #183b56;
+    font-size: 24px;
+}
+
+.main-discription {
+    font-family: "bree serif";
+    color: #616e7c;
+    font-size: 12px;
+}
+
+.project-img {
+    width: 160px;
+    height: 90px;
+    margin: 5px;
+}
+
+.bg-container {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.card {
+    background-color: #ffffff;
+    border-top-right-radius: 14px;
+    border-top-left-radius: 14px;
+    padding: 25px;
+}
+
+.heading {
+    color: #5752ab;
+    font-family: "Bree Serif";
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.para {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.button {
+    height: 36px;
+    width: 138px;
+    border-width: 0px;
+    background-color: #5752ab;
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 2px;
+    margin-left: 5px;
+    font-family: "roboto";
+    font-size: 12px;
+    font-weight: 500;
+
+}
+
+.b2 {
+
+    height: 36px;
+    width: 138px;
+    border-width: 1px;
+    background-color: #ffffff;
+    color: #171f46;
+    border-radius: 10px;
+    padding: 2px;
+    border-color: #d7dfe9;
+    margin-right: 5px;
+    font-family: "roboto";
+    font-size: 12px;
+    font-weight: 500;
+    border-style: solid;
+
+}
+
+.podcast-card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 50vh;
+    background-size: cover;
+}
+
+.pod-head {
+    color: #ffffff;
+    padding: 20px;
+    font-family: "Roboto";
+}
+
+.items {
+    padding: 10px;
+    margin: 5px;
+
+}
+
+.head {
+    text-align: center;
+    font-family: "Roboto";
+    color: #151765;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 5px;
+}
+
+.item1 {
+    height: 10px;
+    width: 15px;
+}
+
+.paragraph {
+    text-align: center;
+    font-family: "Roboto";
+    color: #5a7184;
+    padding: 0px;
+}
+
+.img {
+    height: 120px;
+    width: 150px;
+
+}
+
+.puri-card {
+    background-color: #151765;
+}
+
+.puri-img {
+    height: 140px;
+    width: 180px;
+    margin: 15px;
+}
+
+.puri-para {
+    color: white;
+}
+
+.puri-head {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.puri-text {
+    padding: 10px;
+
+}
+
+.puri-card1 {
+    background-color: #ffffff;
+}
+
+.puri-head1 {
+    color: #151765;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.puri-para1 {
+    color: #5a7184;
+}
+
+.button {
+    background-color: #151765;
+    color: #ffffff;
+    height: 40px;
+    width: 90px;
+    border-radius: 8px;
+}
+
+.bg-home {
+    background-color: #03174c;
+    height: 100vh;
+}
+
+.text {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    height: 40vh;
+    background-size: cover;
+    padding: 30px;
+}
+
+.music-head {
+    color: #ffffff;
+    font-family: "bree serif";
+    font-size: 28px;
+}
+
+.music-description {
+    color: #ffffff;
+    font-family: "bree serif";
+    font-size: 14px;
+
+}
+
+.moon-img {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    height: 23vh;
+    background-size: cover;
+    margin-bottom: 5px;
+
+}
+
+.night-island-card {
+    padding: 30px;
+}
+
+.island {
+    color: #ffe7bf;
+    font-size: 32px;
+    font-family: "bree serif";
+}
+
+.music-para {
+    font-family: "bree serif";
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.button {
+    height: 40px;
+    width: 100px;
+    color: #ffffff;
+    background-color: #8e97fd;
+    border-width: 0px;
+    border-radius: 10px;
+    margin: 50px;
+}
+
+.bg-2 {
+    background-color: #03174c;
+}
+
+.music-details-img {
+    height: 60vh;
+    width: 96.5vw;
+}
+
+.music-details-heading {
+    color: #ffffff;
+    font-family: "bree serif";
+
+}
+
+.music-details-description {
+    color: #98a1bd;
+    font-family: "bree serif";
+}
+
+.music-details {
+    padding: 25px;
+}
+
+.music-details-heading1 {
+    color: #ffffff;
+    font-family: "bree serif";
+    font-size: 22px;
+}
+
+.music-related-img {
+    height: 100px;
+    width: 150px;
+}
+
+.music-related-head {
+    font-family: "bree serif";
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.music-related-para {
+    font-family: "bree serif";
+    color: #98a1bd;
+    font-size: 15px;
+}
+
+.related-img {
+    margin: 5px;
+}
+
+.button {
+    font-family: "bree serif";
+    background-color: #8e97fd;
+    border-width: 0px;
+
+}
+
+.image-conference {
+    width: 100vw;
+}
+
+.heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin: 20px;
+    text-align: center;
+}
+
+.para {
+    font-family: "Roboto";
+
+    color: #5a7184;
+    margin: 5px;
+    text-align: center;
+}
+
+.btn-primary {
+    margin: 8px;
+}
+
+.para1 {
+    margin: 8px;
+}
+
+.video {
+    margin-top: 35px;
+
+}
+
+.head2 {
+    margin: 15px;
+    text-align: center;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.para2 {
+    color: #5a7184;
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.head3 {
+    text-align: center;
+}
+
+.para3 {
+    text-align: center;
+}
+
+.conference-bg-container {
+    padding: 10px;
+}
