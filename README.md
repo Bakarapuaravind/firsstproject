@@ -1,1 +1,1 @@
-# firstproject
+# my static website
